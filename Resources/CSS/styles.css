@@ -6,7 +6,7 @@ body {
 	width: 50%;
 	height: auto;
 	margin: 0 auto;
-	background-image: url("file:///Users/jaredmcdowall/Desktop/Computer%20Science/Code/Archive/Project%20-%20Website%20Style%20Guide/Resources/Images/kristiana-pinne-nesb1HC46rQ-unsplash.jpg");
+	background-image: url('/Resources/Images/kristiana-pinne-nesb1HC46rQ-unsplash.jpg');
 	background-size: cover;
 	color: rgb(255, 255, 255);
 	background-position: top;
